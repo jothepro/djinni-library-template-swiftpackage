@@ -20,6 +20,10 @@
 		<data>
 		Y7uPZarFsXfRy3c+j0oJ5Knc1Kk=
 		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		da6xej5uEhu7PbDGu6bsgABtghI=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -42,6 +46,13 @@
 			<key>hash2</key>
 			<data>
 			zVTVjSvysqLByBOq9ocWG2o01PscbK/R6ITkh7/tuZg=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5pa6Mj33bt3pu3OLm7oauZ+E4oGxJSQ5BgTysG+9YyA=
 			</data>
 		</dict>
 	</dict>

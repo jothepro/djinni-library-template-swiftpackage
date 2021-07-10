@@ -32,6 +32,13 @@
 			zVTVjSvysqLByBOq9ocWG2o01PscbK/R6ITkh7/tuZg=
 			</data>
 		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5pa6Mj33bt3pu3OLm7oauZ+E4oGxJSQ5BgTysG+9YyA=
+			</data>
+		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
