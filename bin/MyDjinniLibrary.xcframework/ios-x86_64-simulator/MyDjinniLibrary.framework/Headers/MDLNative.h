@@ -4,7 +4,7 @@
 #import <Foundation/Foundation.h>
 
 
-@protocol MDLNative
+@protocol MDLNative <NSObject>
 
 - (nonnull NSString *)helloFromNative;
 
